@@ -1,6 +1,6 @@
 {
   "name": "reportal-elements",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "authors": [
     "John Archer <jahglow@gmail.com>"
   ],
@@ -21,7 +21,7 @@
     "r-table": "jahglow/r-table#^1.0.8",
     "r-dropdown": "jahglow/r-dropdown#^1.0.0",
     "radial-gauge": "jahglow/radial-gauge#^1.0.0",
-    "r-admin-menu": "jahglow/r-admin-menu#^1.0.0",
+    "r-menu": "jahglow/r-menu#^1.0.0",
     "r-list": "jahglow/r-list#^1.0.0"
   },
   "resolutions": {
