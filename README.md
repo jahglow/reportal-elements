@@ -19,5 +19,7 @@ Then, go ahead and download the whole set of the element's dependencies:
 * `<r-dropdown>` - Multiselect Polymer dropdown with adjusted labels. [ [Source](https://github.com/jahglow/r-dropdown/) | [Demo & API docs](http://jahglow.github.io/r-dropdown/) ]
 * `<r-table>` - Elements that use a grid to represent data. Include `r-aggregated-table` to wrap around aggregated tables and `r-hitlist` to be used as a standalone module that uses HitList v2 API [ [Source](https://github.com/jahglow/r-table/) | [Demo & API docs](http://jahglow.github.io/r-table/) ]
 * `<radial-gauge>` - An element providing an animated radial gauge (HTML5+CSS3) that may contain up to two gauge faces (secondary is nested inside primary one). [ [Source](https://github.com/jahglow/radial-gauge/) | [Demo & API docs](http://jahglow.github.io/radial-gauge/) ]
+* `<r-admin-menu>` - An element providing a dropdown menu wrapper element for admin-menu. [ [Source](https://github.com/jahglow/r-admin-menu/) | [Demo & API docs](http://jahglow.github.io/r-adimn-menu/) ]
+* `<r-list>` - A wrapper for Reportal List component that automatically detects list type and created Material Design counterparts. [ [Source](https://github.com/jahglow/r-list/) | [Demo & API docs](http://jahglow.github.io/r-list/) ]
 
 
